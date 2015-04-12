@@ -1,0 +1,63 @@
+.center {
+	text-align:center;
+}
+
+.left {
+	text-align: left;
+}
+
+.right {
+	text-align: right;
+}
+
+.vcenter {
+    display: flex;
+    align-items: center;
+}
+
+.information1 {
+	border: 2px solid #FE0002;
+	padding: 12px;
+}
+
+.information2 {
+	border: 2px solid #000099;
+	padding: 12px;
+}
+
+.information3 {
+	border: 2px solid #FFCB00;
+	padding: 12px;
+}
+
+.information4 {
+	border: 2px solid #98CB02;
+	padding: 12px;
+}
+
+a.navigationLeft:hover {
+	color: white;
+}
+
+a.navigationRight:hover {
+	color: white;
+}
+
+.navigationLeft {
+	text-align: center;
+	color: white;
+}
+
+.navigationRight {
+	text-align: center;
+	color: white;
+}
+
+.homeButton {
+	text-align: center;
+	color: white;
+}
+
+a.homeButton:hover {
+	color: white;
+}
